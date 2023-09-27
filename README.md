@@ -53,9 +53,11 @@ Git clone the repository git clone `git@github.com:MiriamRehema/Miriam-Flask-Cod
 Navigate to the project directory with the command cd Miriam-Flask-Code-Challenge-Pizza-Restaurant
 
 # Technology used
+\
 
 The challenge was mainly based on Python, so I used the following technologies:
 Python(your version)
+
 
 Flask
 
