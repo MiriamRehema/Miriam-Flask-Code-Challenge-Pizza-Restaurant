@@ -56,6 +56,7 @@ Navigate to the project directory with the command cd Miriam-Flask-Code-Challeng
 
 The challenge was mainly based on Python, so I used the following technologies:
 Python(your version)
+
 Flask
 
 # Conclusion
