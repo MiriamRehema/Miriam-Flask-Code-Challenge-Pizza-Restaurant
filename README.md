@@ -27,9 +27,11 @@ You need to create the following relationships:
 
 # Validations
 Add validations to the RestaurantPizza model:
+
     must have a price between 1 and 30
 
 Add validations to Restaurant Model:
+
     must have a name less than 50 words in length
     must have a unique name
 
@@ -45,7 +47,7 @@ GET /pizzas
 POST /restaurant_pizzas
 
 
-Frontend
+# Frontend
 
 Git clone the repository git clone `git@github.com:MiriamRehema/Miriam-Flask-Code-Challenge-Pizza-Restaurant``
 Navigate to the project directory with the command cd Miriam-Flask-Code-Challenge-Pizza-Restaurant
@@ -54,6 +56,7 @@ Navigate to the project directory with the command cd Miriam-Flask-Code-Challeng
 
 The challenge was mainly based on Python, so I used the following technologies:
 Python(your version)
+Flask
 
 # Conclusion
 
