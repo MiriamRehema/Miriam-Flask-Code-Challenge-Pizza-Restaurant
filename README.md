@@ -35,9 +35,13 @@ Add validations to Restaurant Model:
 
 # Routes:
 GET /restaurants
+
 GET /restaurants/:id
+
 DELETE /restaurants/:id
+
 GET /pizzas
+
 POST /restaurant_pizzas
 
 
