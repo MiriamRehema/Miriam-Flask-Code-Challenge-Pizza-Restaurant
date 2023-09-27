@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 from app import app
-from model import db, Restaurant,Pizzas,RestaurantPizza
+from model import db, Restaurant,Pizza,RestaurantPizza
 
 
 
