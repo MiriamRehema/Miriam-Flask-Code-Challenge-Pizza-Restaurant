@@ -28,9 +28,6 @@ with app.app_context():
     db.session.commit()
                         
 
-    
-
-
     # Create some pizza records
     pizza1 = Pizza(name="Pepperoni", ingredient="Pepperoni, cheese, tomato sauce")
     pizza2 = Pizza(name="Margarita", ingredient="Tomato, cheese, basil")
